@@ -2,7 +2,7 @@
 
 ----------------
 
-Try `npm install` then `npm run` to run it :D
+Try `npm install` then `spago run` to run it :D
 
 ## License
 
